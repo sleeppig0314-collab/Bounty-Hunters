@@ -31,12 +31,12 @@ Automated tracking of all Clankers PR contributors.
 | ryanll | 3 | 2026-05-13 |
 | kenproxx | 3 | 2026-05-13 |
 | juangenovardortiz | 3 | 2026-05-13 |
+| SimplyRayYZL | 3 | 2026-05-13 |
 | tuvmdainam | 2 | 2026-05-13 |
 | davguij | 2 | 2026-05-13 |
 | SebnemC | 2 | 2026-05-13 |
 | Saumya-Verma123 | 2 | 2026-05-13 |
 | FJ-CX | 2 | 2026-05-13 |
-| SimplyRayYZL | 2 | 2026-05-13 |
 | woairenzhi | 1 | 2026-05-13 |
 | wislonl | 1 | 2026-05-13 |
 | subhajitlucky | 1 | 2026-05-13 |
