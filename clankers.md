@@ -17,6 +17,7 @@ Automated tracking of all Clankers PR contributors.
 | TsukinowaRin | 6 | 2026-05-13 |
 | tjmyou123 | 3 | 2026-05-13 |
 | kingzzoov-ctrl | 3 | 2026-05-13 |
+| Mermaid-Man | 3 | 2026-05-13 |
 | Homie4570 | 3 | 2026-05-13 |
 | AidenPeerce | 3 | 2026-05-13 |
 | tuvmdainam | 2 | 2026-05-13 |
@@ -25,7 +26,6 @@ Automated tracking of all Clankers PR contributors.
 | albayrakburak55 | 2 | 2026-05-13 |
 | SebnemC | 2 | 2026-05-13 |
 | Saumya-Verma123 | 2 | 2026-05-13 |
-| Mermaid-Man | 2 | 2026-05-13 |
 | woairenzhi | 1 | 2026-05-13 |
 | wislonl | 1 | 2026-05-13 |
 | subhajitlucky | 1 | 2026-05-13 |
