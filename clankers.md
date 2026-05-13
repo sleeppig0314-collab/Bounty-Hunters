@@ -55,3 +55,4 @@ Automated tracking of all Clankers PR contributors.
 | puchiburu2020-lgtm | 1 | 2026-05-13 |
 | Saskboys | 1 | 2026-05-13 |
 | rinopatrick | 1 | 2026-05-13 |
+| kenproxx | 1 | 2026-05-13 |
