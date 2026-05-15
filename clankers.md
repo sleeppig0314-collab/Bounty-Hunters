@@ -107,3 +107,4 @@ Automated tracking of all Clankers PR contributors.
 | DragonHa-XIA | 1 | 2026-05-14T23:55:37.421Z | 2026-05-14T23:55:37.421Z |
 | jasonsoldo | 1 | 2026-05-15T02:04:51.797Z | 2026-05-15T02:04:51.797Z |
 | vamtech | 1 | 2026-05-15T07:12:04.084Z | 2026-05-15T07:12:04.084Z |
+| absalonCRC | 1 | 2026-05-15T07:18:19.262Z | 2026-05-15T07:18:19.262Z |
