@@ -414,6 +414,12 @@
     "last_pr": "2026-05-15T10:20:35.136Z"
   },
   {
+    "username": "GitWizzz",
+    "total_prs": 2,
+    "first_pr": "2026-05-15T10:12:59.694Z",
+    "last_pr": "2026-05-15T10:41:31.163Z"
+  },
+  {
     "username": "ErenCankutUYSAL",
     "total_prs": 1,
     "first_pr": "2026-05-13T19:25:27Z",
@@ -646,11 +652,5 @@
     "total_prs": 1,
     "first_pr": "2026-05-15T09:45:21.969Z",
     "last_pr": "2026-05-15T09:45:21.969Z"
-  },
-  {
-    "username": "GitWizzz",
-    "total_prs": 1,
-    "first_pr": "2026-05-15T10:12:59.694Z",
-    "last_pr": "2026-05-15T10:12:59.694Z"
   }
 ]
