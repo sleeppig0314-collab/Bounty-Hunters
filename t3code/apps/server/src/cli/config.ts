@@ -136,6 +136,9 @@ const EnvServerConfig = Config.all({
     Config.option,
     Config.map(Option.getOrUndefined),
   ),
+  compressionLevel: Config.integer("T3CODE_COMPRESSION_LEVEL").pipe(
+    Config.withDefault(6),
+  ),
 });
 
 export interface CliServerFlags {
@@ -151,6 +154,7 @@ export interface CliServerFlags {
   readonly logWebSocketEvents: Option.Option<boolean>;
   readonly tailscaleServeEnabled: Option.Option<boolean>;
   readonly tailscaleServePort: Option.Option<number>;
+  readonly compressionLevel: Option.Option<number>;
 }
 
 export interface CliAuthLocationFlags {
@@ -230,6 +234,7 @@ export const resolveServerConfig = (
       logWebSocketEvents: flags.logWebSocketEvents ?? Option.none(),
       tailscaleServeEnabled: flags.tailscaleServeEnabled ?? Option.none(),
       tailscaleServePort: flags.tailscaleServePort ?? Option.none(),
+      compressionLevel: flags.compressionLevel ?? Option.none(),
     } satisfies CliServerFlags;
     const bootstrapFd = Option.getOrUndefined(normalizedFlags.bootstrapFd) ?? env.bootstrapFd;
     const bootstrapEnvelope =
@@ -374,6 +379,10 @@ export const resolveServerConfig = (
       logWebSocketEvents,
       tailscaleServeEnabled,
       tailscaleServePort,
+      compressionLevel: Option.getOrElse(
+        resolveOptionPrecedence(normalizedFlags.compressionLevel, Option.some(env.compressionLevel)),
+        () => 6 as const,
+      ),
     };
 
     return config;
@@ -397,6 +406,7 @@ export const resolveCliAuthConfig = (
       logWebSocketEvents: Option.none(),
       tailscaleServeEnabled: Option.none(),
       tailscaleServePort: Option.none(),
+      compressionLevel: Option.none(),
     },
     cliLogLevel,
   );

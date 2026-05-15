@@ -43,6 +43,7 @@ export interface ServerDerivedPaths {
   readonly environmentIdPath: string;
   readonly serverRuntimeStatePath: string;
   readonly secretsDir: string;
+  readonly compressionLevel: 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9;
 }
 
 /**
@@ -168,6 +169,7 @@ export class ServerConfig extends Context.Service<ServerConfig, ServerConfigShap
           logWebSocketEvents: false,
           tailscaleServeEnabled: false,
           tailscaleServePort: 443,
+          compressionLevel: 6,
           port: 0,
           host: undefined,
           desktopBootstrapToken: undefined,
