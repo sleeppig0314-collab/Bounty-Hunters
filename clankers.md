@@ -116,3 +116,4 @@ Automated tracking of all Clankers PR contributors.
 | ya-nsh | 1 | 2026-05-15T07:29:21.799Z | 2026-05-15T07:29:21.799Z |
 | kingskuan | 1 | 2026-05-15T14:10:31.174Z | 2026-05-15T14:10:31.174Z |
 | qingtaowu | 1 | 2026-05-15T14:33:07.792Z | 2026-05-15T14:33:07.792Z |
+| Xiaoqiang-Huang | 1 | 2026-05-15T17:11:10.002Z | 2026-05-15T17:11:10.002Z |
