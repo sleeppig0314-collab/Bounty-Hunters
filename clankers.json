@@ -462,6 +462,12 @@
     "last_pr": "2026-05-15T23:09:55.617Z"
   },
   {
+    "username": "sleeppig0314-collab",
+    "total_prs": 2,
+    "first_pr": "2026-05-16T22:29:24.136Z",
+    "last_pr": "2026-05-16T22:29:33.141Z"
+  },
+  {
     "username": "ErenCankutUYSAL",
     "total_prs": 1,
     "first_pr": "2026-05-13T19:25:27Z",
@@ -730,11 +736,5 @@
     "total_prs": 1,
     "first_pr": "2026-05-15T23:04:38.070Z",
     "last_pr": "2026-05-15T23:04:38.070Z"
-  },
-  {
-    "username": "sleeppig0314-collab",
-    "total_prs": 1,
-    "first_pr": "2026-05-16T22:29:24.136Z",
-    "last_pr": "2026-05-16T22:29:24.136Z"
   }
 ]
