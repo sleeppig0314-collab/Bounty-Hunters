@@ -8,9 +8,9 @@ A set of original limericks. Some need polish.
 
 There once was a dev who loved Rust,
 Whose code never once gathered dust,
-He wrote every night,
-Till the tests were all right,
-[TODO: write closing line — must rhyme with "Rust" and "dust"]
+He coded through each night,
+Till bugs dissolved from sight,
+And shipped at last, free of rust.
 
 ---
 
@@ -28,8 +28,8 @@ And vanished with feline defense.
 
 A barista who worked the night shift,
 Made lattes incredibly swift,
-[TODO: write line 3 — short line, ~5 syllables, setup for punchline]
-[TODO: write line 4 — short line, ~5 syllables, rhymes with line 3]
+She poured with great flair,
+The crowd sang through the air,
 But her espresso game was a gift.
 
 ---
@@ -37,7 +37,7 @@ But her espresso game was a gift.
 ### The Astronaut
 
 There once was a girl from the stars,
-Who dreamed about living on Mars,
-She built her own ship,
-And went on a trip,
-[TODO: write closing line — must rhyme with "stars" and "Mars"]
+Who dreamed of the red planet Mars,
+She stepped through the hatch,
+To orbit the red patch,
+And dreamed of the red dot below.
